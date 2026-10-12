@@ -13,6 +13,8 @@ An automated conveyor for RGB object detection and sorting.
 
 ## Files
 
+- [Final report (PDF)](iSort_Final_Report.pdf)
+- [Arduino sketch](iSort.ino)
 - [Conveyor photo](images/isort-conveyor.png)
 
-Additional CAD, schematics, and code can be added here later.
+Additional CAD and schematics can be added here later.
